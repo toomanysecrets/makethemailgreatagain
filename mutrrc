@@ -1,12 +1,13 @@
 account-hook imap://gmail/ "set
 
-set imap_user = "mtrujillo@leadtech.com"
+set imap_user = "mtrujillo@dontblame.com"
 set imap_pass = "bsd,1024"
+#YES!!! IT'S MY GMAIL PASSWORD!!! x'DDDDD
 
-set smtp_url = "smtp://mtrujillo@leadtech.com@smtp.gmail.com:587/"
+set smtp_url = "smtp://mtrujillo@dontblame.com@smtp.gmail.com:587/"
 
 set smtp_pass = "bsd,1024"
-set from = "mtrujillo@leadtech.com"
+set from = "mtrujillo@dontblame.com"
 set realname = "Manuel Trujillo"
 
 set folder = "imaps://imap.gmail.com:993"
